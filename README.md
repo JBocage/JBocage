@@ -26,7 +26,7 @@
 
 ### 🎶 Currently playing
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem1-liard.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 [website]: https://github.com/JBocage
 [github]: https://github.com/JBocage
