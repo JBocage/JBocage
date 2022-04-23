@@ -16,10 +16,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/julienbcg#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/julienbcg#gh-dark-mode-only)
 
-
-<img align="left" alt="JBocage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JBocage&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-### :zap: Recent Activity
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -27,6 +24,10 @@
 ### 🎶 Currently playing
 
 [![Spotify](https://novatorem1-liard.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
+<img align="left" alt="JBocage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JBocage&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 
 [website]: https://github.com/JBocage
 [github]: https://github.com/JBocage
