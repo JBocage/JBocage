@@ -1,4 +1,4 @@
-# Hi there, I'm Julien - aka [JBocage][git-hub] 👋
+# Hi there, I'm Julien - aka [JBocage][github] 👋
 
 ## I'm a french engineering student who loves coding crazy original stuff!!
 
@@ -23,3 +23,4 @@
 
 
 [website]: https://github.com/JBocage
+[github]: https://github.com/JBocage
