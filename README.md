@@ -24,6 +24,9 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+### 🎶 Currently playing
+
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 [website]: https://github.com/JBocage
 [github]: https://github.com/JBocage
