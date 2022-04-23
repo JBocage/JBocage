@@ -20,9 +20,17 @@
 
 [![Spotify](https://novatorem1-liard.vercel.app/api/spotify)](https://open.spotify.com/user/21uamwalr54l7qa4az27qtidy)
 
-
-<img align="left" alt="JBocage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JBocage&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+### 📈 Github stats
+<table>
+<tr>
+  <td width="48%">
+    <img align="left" alt="JBocage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JBocage&show_icons=true&hide_border=false&title_color=ff652f&icon_color=ffE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  </td>
+  <td width="52%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBocage&layout=compact&show_icons=true&hide_border=true&bg_color=09131B&title_color=ff652f" />
+  </td>
+</tr>
+<table>
 
 [website]: https://github.com/JBocage
 [github]: https://github.com/JBocage
